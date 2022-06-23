@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Applications\DeviceFinanceApp\DeviceFinanceApp\Published</_PublishTargetUrl>
+    <History>True|2022-05-25T16:31:57.6024826Z;True|2022-05-18T11:28:44.6348355+01:00;True|2022-05-11T12:59:17.4771626+01:00;True|2022-05-11T12:57:14.6469917+01:00;True|2022-05-11T12:34:54.4142633+01:00;True|2022-05-11T11:41:51.3106411+01:00;True|2022-05-06T13:30:52.8943993+01:00;True|2022-05-06T13:19:35.8746268+01:00;True|2022-05-06T12:45:48.5915083+01:00;True|2022-05-06T12:45:11.1909356+01:00;</History>
+  </PropertyGroup>
+</Project>
